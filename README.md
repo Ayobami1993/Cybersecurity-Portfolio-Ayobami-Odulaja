@@ -39,7 +39,7 @@ I’m passionate about building secure environments through hands-on labs in **A
 ---
 
 ## 📈 My Roadmap
-See my 3-year growth plan here: [Cybersecurity Roadmap (Excel)](./Ayobami_Odulaja_Cybersecurity_Roadmap.xlsx)
+See my 3-year growth plan here: [📘 Cybersecurity Roadmap (Excel)](./Ayobami_Odulaja_Cybersecurity_Roadmap.xlsx)
 
 ---
 
