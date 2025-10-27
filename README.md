@@ -44,5 +44,5 @@ See my 3-year growth plan here: [Cybersecurity Roadmap (Excel)](./Ayobami_Odulaj
 ---
 
 ## 📫 Connect
-🌐 [LinkedIn](https://linkedin.com/in/ayobami-odulaja)    
+🌐 [LinkedIn](www.linkedin.com/in/ayobami-odulaja-077004152)    
 🧰 [GitHub Projects](https://github.com/Ayobami1993)
