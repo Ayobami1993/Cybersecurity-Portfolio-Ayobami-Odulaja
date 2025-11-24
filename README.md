@@ -7,7 +7,7 @@
 
 ## 👨🏽‍💻 About Me
 
-Hi! I’m **Ayobami Odulaja**, a **Cybersecurity Diploma student at Willis College** with a strong foundation in **networking, system administration, and Microsoft infrastructure**.  
+Hi! I’m **Ayobami Odulaja**, a **Cybersecurity Analyst** with a strong foundation in **networking, system administration, and Microsoft infrastructure**.  
 I’m passionate about building secure environments through hands-on labs in **Active Directory**, **Exchange Server**, **SQL**, **VLANs**, and **virtualization**.
 
 ---
@@ -33,7 +33,7 @@ I’m passionate about building secure environments through hands-on labs in **A
 
 ## 🎓 Current Focus
 - Completing **CompTIA A+** and **Network+** certifications  
-- Deepening skills in **penetration testing** and **incident response**  
+- Deepening skills in **penetration testing, ethical hacking** and **incident response**  
 - Expanding this portfolio with **security monitoring** and **SIEM labs**
 
 ---
