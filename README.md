@@ -24,7 +24,7 @@ I’m passionate about building secure environments through hands-on labs in **A
 | 💼 Project | 🔍 Description | 🧠 Key Skills |
 |-------------|----------------|----------------|
 | [Active Directory & Group Policy](./1-ActiveDirectory-Labs/) | Created users, groups, and GPOs for enterprise control | Identity Management |
-| [Exchange Server 2019 DAG](./2-Exchange-Server-Labs/) | Configured Database Availability Group for redundancy | Mail Services & HA |
+| [Exchange Server 2016 DAG](./2-Exchange-Server-Labs/) | Configured Database Availability Group for redundancy | Mail Services & HA |
 | [VLAN & STP Configuration](./4-Networking-Labs/) | Implemented VLAN trunking, STP PortFast, EtherChannel | Cisco Switching |
 | [SQL Server Backup Lab](./3-SQL-Server-Labs/) | Created and restored databases securely | Database Administration |
 | [Hyper-V Virtual Network](./5-HyperV-Virtualization/) | Built multi-VM environments for enterprise simulation | Virtualization |
