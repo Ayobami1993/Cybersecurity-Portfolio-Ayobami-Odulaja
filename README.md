@@ -14,7 +14,7 @@ I’m passionate about building secure environments through hands-on labs in **A
 
 ## 🧰 Skills & Tools
 
-`Windows Server` | `Active Directory` | `Exchange 2019` | `SQL Server` | `Cisco Packet Tracer` |  
+`Windows Server` | `Active Directory` | `Exchange 2016` | `SQL Server` | `Cisco Packet Tracer` |  
 `Hyper-V` | `PowerShell` | `Wireshark` | `Azure Security` | `Linux` | `Networking Fundamentals`
 
 ---
@@ -28,7 +28,7 @@ I’m passionate about building secure environments through hands-on labs in **A
 | [VLAN & STP Configuration](./4-Networking-Labs/) | Implemented VLAN trunking, STP PortFast, EtherChannel | Cisco Switching |
 | [SQL Server Backup Lab](./3-SQL-Server-Labs/) | Created and restored databases securely | Database Administration |
 | [Hyper-V Virtual Network](./5-HyperV-Virtualization/) | Built multi-VM environments for enterprise simulation | Virtualization |
-| [My Certificates](./6-Certifications/) | Cyber Certifications | Browse |
+
 
 
 ---
